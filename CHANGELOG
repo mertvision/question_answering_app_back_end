@@ -1,0 +1,4 @@
+[1.0-beta] - 2024-9-01
+
+* The first version of the Question-Answering has been released with its server (back end) layer.
+* CHANGELOG, CONTRIBUTORS, COPYING, CREDITS, and LICENSE have been added.
